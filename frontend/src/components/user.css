@@ -1,0 +1,13 @@
+.robot-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: transform 0.3s ease;
+  width: 400px;
+  height: 400px;
+}
+
+.robot-container:hover {
+  transform: scale(1.1) rotate(5deg);
+  cursor: pointer;
+}
