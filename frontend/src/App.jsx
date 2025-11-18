@@ -86,7 +86,7 @@ export default function App() {
   return (
     <div className="chat-container">
       <div className="chat-header">
-        <h1>Artificial Intelligence Assistance</h1>
+        <h1>Food Assistance</h1>
       </div>
 
       <div className="chat-messages">
